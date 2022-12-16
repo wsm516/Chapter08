@@ -57,4 +57,4 @@ namespace exercise8_7_2
             textBox3.Text = result.ToString(); // 변수를 문자열로 변환해 텍스트박스에 출력
         }
     }
-}
+} 
