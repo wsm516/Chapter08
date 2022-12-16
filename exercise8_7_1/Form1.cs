@@ -52,4 +52,4 @@ namespace exercise8_7_1
             label3.Font = new Font("굴림", 9, FontStyle.Strikeout);
         }
     }
-}
+} 
